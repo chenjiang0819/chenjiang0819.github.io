@@ -19,7 +19,7 @@ The historical master default is preserved. Source UI maintenance has not been i
 
 ## Run
 
-Run `python3 -m http.server 8000 --bind 127.0.0.1` and open the root URL. For browser checks, install `requirements-dev.txt` in a venv with local Chrome, then run `python3 -B -m unittest discover -s tests -v`. GitHub Pages configuration/deployment is not independently verified by the local checks.
+Run `python3 -m http.server 8000 --bind 127.0.0.1` and open the root URL. For browser checks, install `requirements-dev.txt` in a venv with local Chrome, then run `python3 -B -m unittest discover -s tests -v`.
 
 ## Checks and results
 
