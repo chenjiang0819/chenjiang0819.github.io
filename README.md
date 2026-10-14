@@ -1,5 +1,13 @@
 # Guitar Shop Publishing Snapshot
 
+## Academic Context
+
+University: University of Melbourne  
+Course: Publishing/history copy of GuitarShop  
+Year: See source project and original Git dates  
+Project type: publishing repository
+
+
 ## Overview
 
 A GitHub Pages publishing/history copy of the original handwritten GuitarShop static website.
@@ -16,7 +24,7 @@ Published copies of the store’s eight HTML page types and their styles, script
 
 ## Technical Approach
 
-GuitarShop is the canonical maintained source project. This repository keeps the original publishing copy and adds a root index redirect into home.html.
+[GuitarShop](https://github.com/chenjiang0819/GuitarShop) is the canonical maintained source project. This repository keeps the original publishing copy and adds a root index redirect into home.html.
 
 The historical master default is preserved. Source UI maintenance has not been independently duplicated into this publishing snapshot.
 
